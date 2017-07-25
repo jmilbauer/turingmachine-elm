@@ -1,0 +1,3 @@
+docs/* linguist-documentation
+generated/* linguist-vendored
+elm-stuff.json linguist-vendored
