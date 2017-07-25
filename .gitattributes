@@ -1,2 +1,2 @@
-* linguist-vendored
+generated/* linguist-vendored
 *.elm linguist-vendored=false
