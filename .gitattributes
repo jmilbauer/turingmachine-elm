@@ -1,3 +1,2 @@
 generated/* linguist-vendored
-elm-package.json linguist-vendored
 *.elm linguist-vendored=false
